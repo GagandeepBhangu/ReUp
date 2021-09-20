@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/ReUp/static/js/main.a8d00a54.chunk.js",
+    "main.js.map": "/ReUp/static/js/main.a8d00a54.chunk.js.map",
+    "runtime-main.js": "/ReUp/static/js/runtime-main.b1f37bb9.js",
+    "runtime-main.js.map": "/ReUp/static/js/runtime-main.b1f37bb9.js.map",
+    "static/js/2.93b48261.chunk.js": "/ReUp/static/js/2.93b48261.chunk.js",
+    "static/js/2.93b48261.chunk.js.map": "/ReUp/static/js/2.93b48261.chunk.js.map",
+    "index.html": "/ReUp/index.html",
+    "static/js/2.93b48261.chunk.js.LICENSE.txt": "/ReUp/static/js/2.93b48261.chunk.js.LICENSE.txt",
+    "static/media/logo.339ffc82.PNG": "/ReUp/static/media/logo.339ffc82.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1f37bb9.js",
+    "static/js/2.93b48261.chunk.js",
+    "static/js/main.a8d00a54.chunk.js"
+  ]
+}
